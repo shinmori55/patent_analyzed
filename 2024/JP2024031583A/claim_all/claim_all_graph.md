@@ -12,19 +12,27 @@ I[請求項9]
 J[請求項10]
 B --> A
 C --> A
+C --> B
 D --> A
+D --> B
+D --> C
 E --> A
+E --> B
+E --> C
 F --> A
+F --> B
+F --> C
 G --> A
+G --> B
+G --> C
 H --> A
+H --> B
+H --> C
 I --> A
+I --> B
+I --> C
 J --> A
 J --> B
 J --> C
-J --> D
-J --> E
-J --> F
-J --> G
-J --> H
 J --> I
 ```

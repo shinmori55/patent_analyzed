@@ -1,4 +1,5 @@
-対象特許書類のURL = https://patents.google.com/patent/JP2024029186A/ja
+対象特許書類のURL=https://patents.google.com/patent/JP2024029186A/ja
+
 ```mermaid
 flowchart BT
 A[請求項1]
@@ -27,7 +28,6 @@ W[請求項23]
 X[請求項24]
 Y[請求項25]
 Z[請求項26]
-
 B --> A
 C --> A
 D --> A
